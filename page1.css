@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(141, 141, 255);
+}
+.doan{
+    margin-top: 100px;
+    width: 100%;
+    height: 100%;
+}
+.nut{
+    width: 100%;
+    margin-top: 10%;
+    height: 45px;
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+.chu{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid black;
+    width: 99,5%;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: antiquewhite;
+}
+.nut:hover{
+    cursor: pointer;
+    background-color: peachpuff;
+    position: 0.5s;
+    border: none;
+}
+.chu:hover{
+    cursor: pointer;
+    background-color: pink;
+    position: 0.5s;
+}
